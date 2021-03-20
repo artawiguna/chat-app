@@ -9,7 +9,7 @@ class Chat extends StatelessWidget {
           children: [
             CircleAvatar(
                 backgroundImage: NetworkImage(
-                    'https://lh3.googleusercontent.com/ogw/ADGmqu9Ih-rknKo1I2CQDFkeyNkZD2PITPaOMRvM8guy=s32-c-mo')),
+                    'https://scontent.fsub6-6.fna.fbcdn.net/v/t1.0-9/118220871_2774722002627732_1879489996875839666_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_eui2=AeGwcH7g8mtwRW9ren61XE_L4H95kWyIacrgf3mRbIhpymlw_qFSpnPgIEUtzBks60T2OrozWDByTGwpbI0Uklfj&_nc_ohc=_mDoVM_fI04AX9lqVQC&_nc_ht=scontent.fsub6-6.fna&oh=2a70ddff1d8e7bc2f7614dea96677657&oe=607A8FBF')),
             Padding(padding: EdgeInsets.all(5)),
             Text('arta'),
           ],
